@@ -2,7 +2,7 @@
 
 Clinical + CT-derived feature fusion with explainable machine learning on the NSCLC-Radiomics (Lung1) cohort.
 
-**Authors:** Krish Dahake (PRN 23070521076), Ansh Parate (PRN 23070521076)
+**Authors:** Krish Dahake (PRN 23070521076), Ansh Parate (PRN 23070521017)
 **Project:** CA3 Mini Project
 
 ## Overview
